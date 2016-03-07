@@ -31,9 +31,9 @@ class Solution(object):
             nextQueue = collections.deque()
             while not queue:
                 tmp = queue.popleft()
-                if not tmp.left:
+                if tmp.left:
                     nextQueue.append(tmp.left)
-                if not tmp.right:
+                if tmp.right:
                     nextQueue.append(tmp.right)
             queue = nextQueue
             dep += 1
