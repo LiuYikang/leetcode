@@ -4,37 +4,28 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-import collections
-
 
 class Solution(object):
-    def maxDepth1(self, root):
+    def levelOrder(self, root):
         """
         :type root: TreeNode
-        :rtype: int
+        :rtype: List[List[int]]
         """
-        if not root.left and not root.right:
-            return 1
-        return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
-
-    def maxDepth(self, root):
-        """
-        :type root: TreeNode
-        :rtype: int
-        """
+        res = []
         if not root:
-            return 0
+            return res
         queue = collections.deque()
-        dep = 0
         queue.append(root)
         while queue:
             nextQueue = collections.deque()
+            tmpList = []
             while queue:
                 tmp = queue.popleft()
+                tmpList.append(tmp)
                 if tmp.left:
                     nextQueue.append(tmp.left)
                 if tmp.right:
                     nextQueue.append(tmp.right)
             queue = nextQueue
-            dep += 1
-        return dep
+            res.append(tmpList)
+        return res
