@@ -97,7 +97,7 @@ public void test() {
 #### 2.1 数组转list，调用Arrays.asList()方法：
 ```java
 public static <T> List<T> asList(T... a) {
-     return new ArrayList<>(a);
+    return new ArrayList<>(a);
 }
 String[] strings = str.split(" ");
 List<String> list = Arrays.asList(strings);
@@ -118,11 +118,11 @@ String[] arr = (String[])list.toArray(new String[size]);
 Math.max(int a, int b); Math.max(float a, float b); Math.min(int a, int b);
 
 public void testMain() throws Exception {
-        int a = 100;
-        int b = 200;
+    int a = 100;
+    int b = 200;
 
-        System.out.println(Math.max(a,b));
-        System.out.println(Math.min(a,b));
+    System.out.println(Math.max(a,b));
+    System.out.println(Math.min(a,b));
 }
 ```
 
@@ -191,68 +191,68 @@ Collections.sort(list);   // ---> list = {1, 2, 3}
 ### 1.Map的遍历
 ```java
 public class TestMap {
-        public static void main(String[] args) {
-                Map<String, String> map = new HashMap<String, String>();
-                // put值
-                map.put("1", "a");
-                map.put("2", "b");
-                map.put("3", "c");
+    public static void main(String[] args) {
+        Map<String, String> map = new HashMap<String, String>();
+        // put值
+        map.put("1", "a");
+        map.put("2", "b");
+        map.put("3", "c");
 
-                //最简洁、最通用的遍历方式
-                for (Map.Entry<String, String> entry : map.entrySet()) {
-                        System.out.println(entry.getKey() + " = " + entry.getValue());
-                }  
-        }
+        //最简洁、最通用的遍历方式
+        for (Map.Entry<String, String> entry : map.entrySet()) {
+            System.out.println(entry.getKey() + " = " + entry.getValue());
+        }  
+    }
 }
 ```
 
 ### 2.Queue队列的遍历
 ```java
 public class TestQueue {
-        public static void main(String[] args) {
-                Queue<Integer> q = new LinkedBlockingQueue<Integer>();
-                //初始化队列
-                for (int i = 0; i < 5; i++) {
-                        q.offer(i);
-                }
-                System.out.println("-------1-----");
-                //集合方式遍历，元素不会被移除
-                for (Integer x : q) {
-                        System.out.println(x);
-                }
-                System.out.println("-------2-----");
-                //队列方式遍历，元素逐个被移除
-                while (q.peek() != null) {
-                        System.out.println(q.poll());
-                }
+    public static void main(String[] args) {
+        Queue<Integer> q = new LinkedBlockingQueue<Integer>();
+        //初始化队列
+        for (int i = 0; i < 5; i++) {
+            q.offer(i);
         }
+        System.out.println("-------1-----");
+        //集合方式遍历，元素不会被移除
+        for (Integer x : q) {
+            System.out.println(x);
+        }
+        System.out.println("-------2-----");
+        //队列方式遍历，元素逐个被移除
+        while (q.peek() != null) {
+            System.out.println(q.poll());
+        }
+    }
 }
 ```
 
 ### 3.Stack栈的遍历
 ```java
 public class TestStack {
-        public static void main(String[] args) {
-                Stack<Integer> s = new Stack<Integer>();
-                for (int i = 0; i < 10; i++) {
-                        s.push(i);
-                }
-                //集合遍历方式
-                for (Integer x : s) {
-                        System.out.println(x);
-                }
-                System.out.println("------1-----");
-                // 栈弹出遍历方式
-                // while (s.peek()!=null) {     //不健壮的判断方式，容易抛异常，正确写法是下面的
-                while (!s.empty()) {
-                        System.out.println(s.pop());
-                }
-                System.out.println("------2-----");
-                // 错误的遍历方式
-                // for (Integer x : s) {
-                //        System.out.println(s.pop());
-                // }
+    public static void main(String[] args) {
+        Stack<Integer> s = new Stack<Integer>();
+        for (int i = 0; i < 10; i++) {
+            s.push(i);
         }
+        //集合遍历方式
+        for (Integer x : s) {
+            System.out.println(x);
+        }
+        System.out.println("------1-----");
+        // 栈弹出遍历方式
+        // while (s.peek()!=null) {     //不健壮的判断方式，容易抛异常，正确写法是下面的
+        while (!s.empty()) {
+            System.out.println(s.pop());
+        }
+        System.out.println("------2-----");
+        // 错误的遍历方式
+        // for (Integer x : s) {
+        //        System.out.println(s.pop());
+        // }
+    }
 }
 ```
 在遍历集合时候，优先考虑使用foreach语句来做，这样代码更简洁些。
@@ -265,14 +265,14 @@ length()方法是==针对字符串String==说的，如果想看这个字符串�
 size()方法是==针对泛型集合泛型集合(Collection)如Set、List、Map==说的，如果想看这个泛型有多少个元素，就调用此方法来查看。数组没有size()方法。
 ```java
 public static void main(String[] args) {
-        String[] list = {"hello", "baidu"};
-        String a = "hellobaidu";
-        List<Object> array = new ArrayList();
-        array.add(a);
+    String[] list = {"hello", "baidu"};
+    String a = "hellobaidu";
+    List<Object> array = new ArrayList();
+    array.add(a);
 
-        System.out.println(list.length);
-        System.out.println(a.length());
-        System.out.println(array.size());
+    System.out.println(list.length);
+    System.out.println(a.length());
+    System.out.println(array.size());
 }
 
 // ---> 2  10  1
@@ -334,4 +334,74 @@ public class Sort {
 		System.out.println(list);
 	}
 }
+```
+
+## 九、Java集合常用方法
+### 1. list
+| 返回类型 | 方法名称             | 说明                             |
+| -------- | -------------------- | -------------------------------- |
+| boolean  | add(Object obj)      | 加入元素，返回是否添加成功       |
+| boolean  | clear()              | 清除集合中的元素                 |
+| boolean  | contains(Object obj) | 查找集合中是否存在传入的元素     |
+| Object   | get(int index)       | 获取指定位置的元素               |
+| boolean  | isEmpty()            | 判断集合是否为空                 |
+| Object   | remove(int index)    | 删除制定位置的元素，并返回该元素 |
+| int      | size()               | 获取集合大小                     |
+| Object[] | toArray()            | 将集合转换成一个数组             |
+
+### 2. map
+| 返回类型 | 方法名称                     | 说明                                                                  |
+| -------- | ---------------------------- | --------------------------------------------------------------------- |
+| Object   | put(Object key,Object value) | 加入元素，返回与此key关联的原有的value，不存在则返回null              |
+| void     | clear()                      | 从集合中移除所有的元素                                                |
+| boolean  | containsKey(Object key)      | 根据key从集合中判断key是否存在                                        |
+| boolean  | containsValue(Object value)  | 根据value从集合中判断value是否存在                                    |
+| Object   | get(Object key)              | 根据key返回key对应的值                                                |
+| Set      | keySet()                     | 返回Map集合中包含的键集合                                             |
+| Object   | remove(Object key)           | 从集合中删除key对应的元素，返回与key对应的原有value，不存在则返回null |
+| int      | size()                       | 返回集合中的元素的数量                                                |
+
+### 3. set
+| 返回类型 | 方法名称             | 说明                            |
+| -------- | -------------------- | ------------------------------- |
+| boolean  | add(Object obj)      | 加入元素                        |
+| void     | clear()              | 移除Set集合中所有元素           |
+| boolean  | contains(Object obj) | 判断Set集合中是否包含指定元素   |
+| boolean  | isEmpty()            | 判断Set集合是否为空             |
+| Iterator | iterator()           | 返回Set集合中对元素迭代的迭代器 |
+| boolean  | remove(Object obj)   | 从集合中删除元素                |
+| Int      | size()               | 返回集合中的元素数量            |
+
+### 4. stack
+eg：Stack<Integer> st = new Stack<Integer>()
+
+| 返回类型 | 方法名称               | 说明                                             |
+| -------- | ---------------------- | ------------------------------------------------ |
+| boolean  | empty()                | 测试堆栈是否为空。                               |
+| Object   | peek()                 | 查看堆栈顶部的对象，但不从堆栈中移除它。         |
+| Object   | pop()                  | 移除堆栈顶部的对象，并作为此函数的值返回该对象。 |
+| Object   | push(Object element)   | 把项压入堆栈顶部。                               |
+| int      | search(Object element) | 返回对象在堆栈中的位置，以 1 为基数              |
+
+### 5. queue
+eg：Queue<String> queue = new LinkedList<String>()
+
+| 返回类型 | 方法名称              | 说明                                              |
+| -------- | --------------------- | ------------------------------------------------- |
+| boolean  | offer(Object element) | 添加一个元素并返回true 如果队列已满，则返回false  |
+| Object   | poll()                | 移除并返问队列头部的元素 如果队列为空，则返回null |
+| Object   | peek()                | 返回队列头部的元素 如果队列为空，则返回null       |
+
+#### priorityQueue
+```java
+// 默认实现了一个最小堆。
+Queue<Integer> priorityQueue = new PriorityQueue<>();
+
+// 实现最大堆
+Queue<ListNode> priorityQueue = new PriorityQueue<ListNode>(lists.size(),new Comparator<ListNode>(){
+    @Override
+    public int compare(ListNode o1, ListNode o2) {
+        return o1.val-o2.val;
+    }
+});
 ```
