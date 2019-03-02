@@ -338,16 +338,17 @@ public class Sort {
 
 ## 九、Java集合常用方法
 ### 1. list
-| 返回类型 | 方法名称             | 说明                             |
-| -------- | -------------------- | -------------------------------- |
-| boolean  | add(Object obj)      | 加入元素，返回是否添加成功       |
-| boolean  | clear()              | 清除集合中的元素                 |
-| boolean  | contains(Object obj) | 查找集合中是否存在传入的元素     |
-| Object   | get(int index)       | 获取指定位置的元素               |
-| boolean  | isEmpty()            | 判断集合是否为空                 |
-| Object   | remove(int index)    | 删除制定位置的元素，并返回该元素 |
-| int      | size()               | 获取集合大小                     |
-| Object[] | toArray()            | 将集合转换成一个数组             |
+| 返回类型 | 方法名称                   | 说明                             |
+| -------- | -------------------------- | -------------------------------- |
+| boolean  | add(Object obj)            | 加入元素，返回是否添加成功       |
+| boolean  | clear()                    | 清除集合中的元素                 |
+| boolean  | contains(Object obj)       | 查找集合中是否存在传入的元素     |
+| Object   | get(int index)             | 获取指定位置的元素               |
+| boolean  | isEmpty()                  | 判断集合是否为空                 |
+| Object   | remove(int index)          | 删除制定位置的元素，并返回该元素 |
+| int      | size()                     | 获取集合大小                     |
+| Object[] | toArray()                  | 将集合转换成一个数组             |
+| Object   | set(int index, Object obj) | 替换指定位置的元素，返回旧元素   | 
 
 ### 2. map
 | 返回类型 | 方法名称                     | 说明                                                                  |
