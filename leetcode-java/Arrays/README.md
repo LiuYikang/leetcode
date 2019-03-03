@@ -33,4 +33,4 @@
 * 287	Find the Duplicate Number
 * 135	Candy	很少考
 * 330	Patching Array	很少考
-* [548 Split Array with Equal Sum](./solution/548.java)
+* [548 Split Array with Equal Sum](./Solution/548.java)

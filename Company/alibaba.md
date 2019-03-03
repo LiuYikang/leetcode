@@ -97,16 +97,16 @@
 [415.Add Strings](../leetcode-java/) \
 [437.Path Sum III](../leetcode-java/) \
 [516.Longest Palindromic Subsequence](../leetcode-java/) \
-[535.Encode and Decode TinyURL](../leetcode-java/) \
-[543.Diameter of Binary Tree](../leetcode-java/) \
-[548.Split Array with Equal Sum](../leetcode-java/Arrays/solution/548.java) \
+[535.Encode and Decode TinyURL](../leetcode-java/Math/Solution/535.java) \
+[543.Diameter of Binary Tree](../leetcode-java/Tree/Solution/543.java) \
+[548.Split Array with Equal Sum](../leetcode-java/Arrays/Solution/548.java) \
 [555.Split Concatenated Strings](../leetcode-java/String/Solution/555.java) \
-[557.Reverse Words in a String III](../leetcode-java/) \
-[560.Subarray Sum Equals K](../leetcode-java/) \
-[572.Subtree of Another Tree](../leetcode-java/) \
-[657.Judge Route Circle](../leetcode-java/) \
+[557.Reverse Words in a String III](../leetcode-java/String/Solution/557.java) \
+[560.Subarray Sum Equals K](../leetcode-java/Arrays/Solution/560.java) \
+[572.Subtree of Another Tree](../leetcode-java/Tree/Solution/572.java) \
+[657.Robot Return to Origin](../leetcode-java/String/Solution/567.java) \
 [666.Path Sum IV](../leetcode-java/Tree/Solution/666.java) \
-[673.Number of Longest Increasing Subsequence](../leetcode-java/) \
-[678.Valid Parenthesis String](../leetcode-java/) \
-[695.Max Area of Island](../leetcode-java/) \
-[718.Maximum Length of Repeated Subarray](../leetcode-java/) 
+[673.Number of Longest Increasing Subsequence](../leetcode-java/Arrays/Solution/673.java) \
+[678.Valid Parenthesis String](../leetcode-java/String/Solution/678.java) \
+[695.Max Area of Island](../leetcode-java/Arrays/695.java) \
+[718.Maximum Length of Repeated Subarray](../leetcode-java/Arrays/718.java)
