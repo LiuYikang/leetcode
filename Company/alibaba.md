@@ -108,5 +108,5 @@
 [666.Path Sum IV](../leetcode-java/Tree/Solution/666.java) \
 [673.Number of Longest Increasing Subsequence](../leetcode-java/Arrays/Solution/673.java) \
 [678.Valid Parenthesis String](../leetcode-java/String/Solution/678.java) \
-[695.Max Area of Island](../leetcode-java/Arrays/695.java) \
-[718.Maximum Length of Repeated Subarray](../leetcode-java/Arrays/718.java)
+[695.Max Area of Island](../leetcode-java/Arrays/Solution/695.java) \
+[718.Maximum Length of Repeated Subarray](../leetcode-java/Arrays//Solution/718.java)
