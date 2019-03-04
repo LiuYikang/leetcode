@@ -91,12 +91,12 @@
 [338.Counting Bits](../leetcode-java/) \
 [344.Reverse String](../leetcode-java/) \
 [347.Top K Frequent Elements](../leetcode-java/) \
-[350.Intersection of Two Arrays II](../leetcode-java/) \
-[386.Lexicographical Numbers](../leetcode-java/) \
-[387.First Unique Character in a String](../leetcode-java/) \
-[415.Add Strings](../leetcode-java/) \
-[437.Path Sum III](../leetcode-java/) \
-[516.Longest Palindromic Subsequence](../leetcode-java/) \
+[350.Intersection of Two Arrays II](../leetcode-java/Array/Solution/350.java) \
+[386.Lexicographical Numbers](../leetcode-java/Arrays/Solution/386.java) \
+[387.First Unique Character in a String](../leetcode-java/String/Solution/387.java) \
+[415.Add Strings](../leetcode-java/String/Solution/415.java) \
+[437.Path Sum III](../leetcode-java/Tree/Solution/437.java) \
+[516.Longest Palindromic Subsequence](../leetcode-java/String/Solutions/516.java) \
 [535.Encode and Decode TinyURL](../leetcode-java/Math/Solution/535.java) \
 [543.Diameter of Binary Tree](../leetcode-java/Tree/Solution/543.java) \
 [548.Split Array with Equal Sum](../leetcode-java/Arrays/Solution/548.java) \
