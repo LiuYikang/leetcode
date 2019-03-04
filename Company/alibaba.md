@@ -90,7 +90,7 @@
 [329.Longest Increasing Path in a Matrix](../leetcode-java/) \
 [338.Counting Bits](../leetcode-java/) \
 [344.Reverse String](../leetcode-java/) \
-[347.Top K Frequent Elements](../leetcode-java/) \
+[347.Top K Frequent Elements](../leetcode-java/Sort/Solution/347.java) \
 [350.Intersection of Two Arrays II](../leetcode-java/Array/Solution/350.java) \
 [386.Lexicographical Numbers](../leetcode-java/Arrays/Solution/386.java) \
 [387.First Unique Character in a String](../leetcode-java/String/Solution/387.java) \
