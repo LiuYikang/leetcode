@@ -84,12 +84,12 @@
 [240.Search a 2D Matrix II](../leetcode-java/) \
 [283.Move Zeroes](../leetcode-java/) \
 [290.Word Pattern](../leetcode-java/) \
-[303.Range Sum Query - Immutable](../leetcode-java/) \
-[309.Best Time to Buy and Sell Stock with Cooldown](../leetcode-java/) \
-[312.Burst Balloons](../leetcode-java/) \
-[329.Longest Increasing Path in a Matrix](../leetcode-java/) \
-[338.Counting Bits](../leetcode-java/) \
-[344.Reverse String](../leetcode-java/) \
+[303.Range Sum Query - Immutable](../leetcode-java/Arrays/Solution/303.java) \
+[309.Best Time to Buy and Sell Stock with Cooldown](../leetcode-java/DynamicProgram/Solution/309.java) \
+[312.Burst Balloons](../leetcode-java/DynamicPorgram/Solution/312.java) \
+[329.Longest Increasing Path in a Matrix](../leetcode-java/DFS/Solution/329.java) \
+[338.Counting Bits](../leetcode-java/BitMap/Solution/338.java) \
+[344.Reverse String](../leetcode-java/String/Solution/344.java) \
 [347.Top K Frequent Elements](../leetcode-java/Sort/Solution/347.java) \
 [350.Intersection of Two Arrays II](../leetcode-java/Array/Solution/350.java) \
 [386.Lexicographical Numbers](../leetcode-java/Arrays/Solution/386.java) \
