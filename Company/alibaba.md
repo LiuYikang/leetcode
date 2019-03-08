@@ -60,7 +60,7 @@
 [140.Word Break II](../leetcode-java/) \
 [141.Linked List Cycle](../leetcode-java/) \
 [144.Binary Tree Preorder Traversal](../leetcode-java/) \
-[146.LRU Cache](../leetcode-java/) \
+[146.LRU Cache](../leetcode-java/Desgin/Solution/146.java) \
 [147.Insertion Sort List](../leetcode-java/) \
 [148.Sort List](../leetcode-java/) \
 [149.Max Points on a Line](../leetcode-java/) \
