@@ -28,88 +28,88 @@ cache.get(4);       // returns 4
 **/
 
 class ListNode {
-	int val;
-	int key;
-	ListNode next;
-	ListNode pre;
-	
-	public ListNode(int key, int val) {
-		this.key = key;
-		this.val = val;
-		this.next = null;
-		this.pre = null;
-	}
-	
-	public ListNode() {
-		this.key = 0;
-		this.val = 0;
-		this.next = null;
-		this.pre = null;
-	}
+    int val;
+    int key;
+    ListNode next;
+    ListNode pre;
+    
+    public ListNode(int key, int val) {
+        this.key = key;
+        this.val = val;
+        this.next = null;
+        this.pre = null;
+    }
+    
+    public ListNode() {
+        this.key = 0;
+        this.val = 0;
+        this.next = null;
+        this.pre = null;
+    }
 }
 
 class LRUCache {
     Map<Integer, ListNode> list;
-	int capacity;
-	int count;
-	ListNode head;
-	ListNode tail;
+    int capacity;
+    int count;
+    ListNode head;
+    ListNode tail;
     
     public LRUCache(int capacity) {
         this.capacity = capacity;
-		this.count = 0;
-		this.list = new HashMap<>();
-		this.head = new ListNode();
-		this.tail = new ListNode();
-		this.head.next = this.tail;
-		this.tail.pre = this.head;
+        this.count = 0;
+        this.list = new HashMap<>();
+        this.head = new ListNode();
+        this.tail = new ListNode();
+        this.head.next = this.tail;
+        this.tail.pre = this.head;
     }
     
     public int get(int key) {
         if (!list.containsKey(key)) {
-			return -1;
-		} else {
-			ListNode node = this.list.get(key);
-			this.remove(node);
-			this.add(node);
-			return node.val;
-		}
+            return -1;
+        } else {
+            ListNode node = this.list.get(key);
+            this.remove(node);
+            this.add(node);
+            return node.val;
+        }
     }
     
     public void put(int key, int value) {
         if (this.capacity <= 0) {
-			return;
-		}
-		if (!this.list.containsKey(key)) {
-			ListNode node = new ListNode(key, value);
-			this.list.put(key, node);
-			this.add(node);
-			this.count++;
-			if (this.count > this.capacity) {
-				ListNode toDelete = this.tail.pre;
-				this.remove(toDelete);
-				this.list.remove(toDelete.key);
-				this.count--;
-			}
-		} else {
-			ListNode node = this.list.get(key);
-			node.val = value;
-			this.remove(node);
-			this.add(node);
-		}
+            return;
+        }
+        if (!this.list.containsKey(key)) {
+            ListNode node = new ListNode(key, value);
+            this.list.put(key, node);
+            this.add(node);
+            this.count++;
+            if (this.count > this.capacity) {
+                ListNode toDelete = this.tail.pre;
+                this.remove(toDelete);
+                this.list.remove(toDelete.key);
+                this.count--;
+            }
+        } else {
+            ListNode node = this.list.get(key);
+            node.val = value;
+            this.remove(node);
+            this.add(node);
+        }
     }
     
     private void add(ListNode node) {
-		node.next = this.head.next;
-		this.head.next.pre = node;
-		node.pre = this.head;
-		this.head.next = node;
-	}
-	
-	private void remove(ListNode node) {
-		node.next.pre = node.pre;
-		node.pre.next = node.next;
-	}
+        node.next = this.head.next;
+        this.head.next.pre = node;
+        node.pre = this.head;
+        this.head.next = node;
+    }
+    
+    private void remove(ListNode node) {
+        node.next.pre = node.pre;
+        node.pre.next = node.next;
+    }
 }
 
 /**
