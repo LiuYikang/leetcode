@@ -82,8 +82,8 @@
 [234.Palindrome Linked List](../leetcode-java/) \
 [239.Sliding Window Maximum](../leetcode-java/) \
 [240.Search a 2D Matrix II](../leetcode-java/) \
-[283.Move Zeroes](../leetcode-java/) \
-[290.Word Pattern](../leetcode-java/) \
+[283.Move Zeroes](../leetcode-java/Arrays/Solution/283.java) \
+[290.Word Pattern](../leetcode-java/Hash/Solution/290.java) \
 [303.Range Sum Query - Immutable](../leetcode-java/Arrays/Solution/303.java) \
 [309.Best Time to Buy and Sell Stock with Cooldown](../leetcode-java/DynamicProgram/Solution/309.java) \
 [312.Burst Balloons](../leetcode-java/DynamicPorgram/Solution/312.java) \
