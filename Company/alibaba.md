@@ -81,7 +81,7 @@
 [229.Majority Element II](../leetcode-java/) \
 [234.Palindrome Linked List](../leetcode-java/) \
 [239.Sliding Window Maximum](../leetcode-java/) \
-[240.Search a 2D Matrix II](../leetcode-java/) \
+[240.Search a 2D Matrix II](../leetcode-java/BianrySearch/Solution/240.java) \
 [283.Move Zeroes](../leetcode-java/Arrays/Solution/283.java) \
 [290.Word Pattern](../leetcode-java/Hash/Solution/290.java) \
 [303.Range Sum Query - Immutable](../leetcode-java/Arrays/Solution/303.java) \
