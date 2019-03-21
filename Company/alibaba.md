@@ -69,7 +69,7 @@
 [153.Find Minimum in Rotated Sorted Array](../leetcode-java/) \
 [164.Maximum Gap](../leetcode-java/) \
 [167.Two Sum II - Input array is sorted](../leetcode-java/) \
-[169.Majority Element](../leetcode-java/) \
+[169.Majority Element](../leetcode/Arrays/leetcode-169) \
 [171.Excel Sheet Column Number](../leetcode-java/) \
 [179.Largest Number](../leetcode-java/) \
 [198.House Robber](../leetcode-java/) \
@@ -78,7 +78,7 @@
 [214.Shortest Palindrome](../leetcode-java/) \
 [215.Kth Largest Element in an Array](../leetcode-java/) \
 [224.Basic Calculator](../leetcode-java/) \
-[229.Majority Element II](../leetcode-java/) \
+[229.Majority Element II](../leetcode/Arrays/leetcode-229) \
 [234.Palindrome Linked List](../leetcode-java/LinkedList/Solution/234.java) \
 [239.Sliding Window Maximum](../leetcode-java/Arrays/Solution/239.java) \
 [240.Search a 2D Matrix II](../leetcode-java/BianrySearch/Solution/240.java) \
