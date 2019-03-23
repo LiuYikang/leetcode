@@ -73,7 +73,7 @@
 [171.Excel Sheet Column Number](../leetcode-java/) \
 [179.Largest Number](../leetcode-java/) \
 [198.House Robber](../leetcode-java/) \
-[200.Number of Islands](../leetcode-java/) \
+[200.Number of Islands](../leetcode-java/DFS/leetcode-200) \
 [202.Happy Number](../leetcode-java/HashMap/leetcode-202) \
 [214.Shortest Palindrome](../leetcode-java/) \
 [215.Kth Largest Element in an Array](../leetcode-java/Arrays/leetcode-215) \
