@@ -74,7 +74,7 @@
 [179.Largest Number](../leetcode-java/) \
 [198.House Robber](../leetcode-java/) \
 [200.Number of Islands](../leetcode-java/) \
-[202.Happy Number](../leetcode-java/) \
+[202.Happy Number](../leetcode-java/HashMap/leetcode-202) \
 [214.Shortest Palindrome](../leetcode-java/) \
 [215.Kth Largest Element in an Array](../leetcode-java/Arrays/leetcode-215) \
 [224.Basic Calculator](../leetcode-java/Stack/leetcode-224) \
