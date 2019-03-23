@@ -1,3 +1,5 @@
+package arrays
+
 func majorityElement(nums []int) int {
 	count, target := 1, nums[0]
 
