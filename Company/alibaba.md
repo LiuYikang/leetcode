@@ -70,8 +70,8 @@
 [164.Maximum Gap](../leetcode-java/) \
 [167.Two Sum II - Input array is sorted](../leetcode-java/) \
 [169.Majority Element](../leetcode/Arrays/leetcode-169) \
-[171.Excel Sheet Column Number](../leetcode-java/) \
-[179.Largest Number](../leetcode-java/) \
+[171.Excel Sheet Column Number](../leetcode-java/Math/leetcode-171) \
+[179.Largest Number](../leetcode-java/Sort/leetcode-179) \
 [198.House Robber](../leetcode-java/DynamicProgram/leetcode-198) \
 [200.Number of Islands](../leetcode-java/DFS/leetcode-200) \
 [202.Happy Number](../leetcode-java/HashMap/leetcode-202) \
