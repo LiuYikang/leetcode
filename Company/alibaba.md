@@ -67,8 +67,8 @@
 [151.Reverse Words in a String](../leetcode-java/) \
 [152.Maximum Product Subarray](../leetcode-java/) \
 [153.Find Minimum in Rotated Sorted Array](../leetcode-java/) \
-[164.Maximum Gap](../leetcode-java/) \
-[167.Two Sum II - Input array is sorted](../leetcode-java/) \
+[164.Maximum Gap](../leetcode-java/Sort/leetcode-164) \
+[167.Two Sum II - Input array is sorted](../leetcode-java/Arrays/leetcode-167) \
 [169.Majority Element](../leetcode/Arrays/leetcode-169) \
 [171.Excel Sheet Column Number](../leetcode-java/Math/leetcode-171) \
 [179.Largest Number](../leetcode-java/Sort/leetcode-179) \
