@@ -65,8 +65,8 @@
 [148.Sort List](../leetcode-java/) \
 [149.Max Points on a Line](../leetcode-java/) \
 [151.Reverse Words in a String](../leetcode-java/) \
-[152.Maximum Product Subarray](../leetcode-java/) \
-[153.Find Minimum in Rotated Sorted Array](../leetcode-java/) \
+[152.Maximum Product Subarray](../leetcode-java/DynamicProgram/leetcode-152) \
+[153.Find Minimum in Rotated Sorted Array](../leetcode-java/BinarySearch/leetcode-153) \
 [164.Maximum Gap](../leetcode-java/Sort/leetcode-164) \
 [167.Two Sum II - Input array is sorted](../leetcode-java/Arrays/leetcode-167) \
 [169.Majority Element](../leetcode/Arrays/leetcode-169) \
