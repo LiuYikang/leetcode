@@ -61,10 +61,10 @@
 [141.Linked List Cycle](../leetcode-java/) \
 [144.Binary Tree Preorder Traversal](../leetcode-java/) \
 [146.LRU Cache](../leetcode-java/Desgin/Solution/146.java) \
-[147.Insertion Sort List](../leetcode-java/) \
-[148.Sort List](../leetcode-java/) \
-[149.Max Points on a Line](../leetcode-java/) \
-[151.Reverse Words in a String](../leetcode-java/) \
+[147.Insertion Sort List](../leetcode-java/Sort/leetcode-147) \
+[148.Sort List](../leetcode-java/Sort/leetcode-148) \
+[149.Max Points on a Line](../leetcode-java/HashTable/leetcode-149) \
+[151.Reverse Words in a String](../leetcode-java/String/leetcode-151) \
 [152.Maximum Product Subarray](../leetcode-java/DynamicProgram/leetcode-152) \
 [153.Find Minimum in Rotated Sorted Array](../leetcode-java/BinarySearch/leetcode-153) \
 [164.Maximum Gap](../leetcode-java/Sort/leetcode-164) \

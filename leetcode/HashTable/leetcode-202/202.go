@@ -1,4 +1,4 @@
-package hashmap
+package hashtable
 
 func isHappy(n int) bool {
 	m := make(map[int]bool)
