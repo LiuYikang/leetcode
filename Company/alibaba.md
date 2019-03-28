@@ -56,10 +56,10 @@
 [124.Binary Tree Maximum Path Sum](../leetcode-java/) \
 [133.Clone Graph](../leetcode-java/) \
 [136.Single Number](../leetcode-java/) \
-[138.Copy List with Random Pointer](../leetcode-java/) \
-[140.Word Break II](../leetcode-java/) \
-[141.Linked List Cycle](../leetcode-java/) \
-[144.Binary Tree Preorder Traversal](../leetcode-java/) \
+[138.Copy List with Random Pointer](../leetcode-java/LinkedList/leetcode-138) \
+[140.Word Break II](../leetcode-java/BackTracking/leetcode-140) \
+[141.Linked List Cycle](../leetcode-java/LinkedList/leetcode-141) \
+[144.Binary Tree Preorder Traversal](../leetcode-java/Tree/leetcode-144) \
 [146.LRU Cache](../leetcode-java/Desgin/Solution/146.java) \
 [147.Insertion Sort List](../leetcode-java/Sort/leetcode-147) \
 [148.Sort List](../leetcode-java/Sort/leetcode-148) \
