@@ -53,9 +53,9 @@
 [114.Flatten Binary Tree to Linked List](../leetcode-java/) \
 [121.Best Time to Buy and Sell Stock](../leetcode-java/) \
 [122.Best Time to Buy and Sell Stock II](../leetcode-java/) \
-[124.Binary Tree Maximum Path Sum](../leetcode-java/) \
-[133.Clone Graph](../leetcode-java/) \
-[136.Single Number](../leetcode-java/) \
+[124.Binary Tree Maximum Path Sum](../leetcode-java/Tree/leetcode-124) \
+[133.Clone Graph](../leetcode-java/Graph/leetcode-133) \
+[136.Single Number](../leetcode-java/BitManipulation/leetcode-136) \
 [138.Copy List with Random Pointer](../leetcode-java/LinkedList/leetcode-138) \
 [140.Word Break II](../leetcode-java/BackTracking/leetcode-140) \
 [141.Linked List Cycle](../leetcode-java/LinkedList/leetcode-141) \
