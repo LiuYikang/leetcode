@@ -50,7 +50,7 @@
 [104.Maximum Depth of Binary Tree](../leetcode-java/) \
 [110.Balanced Binary Tree](../leetcode-java/) \
 [111.Minimum Depth of Binary Tree](../leetcode-java/) \
-[114.Flatten Binary Tree to Linked List](../leetcode-java/) \
+[114.Flatten Binary Tree to Linked List](../leetcode-java/Tree/leetcode-114) \
 [121.Best Time to Buy and Sell Stock](../leetcode-java/DynamicProgram/leetcode-121) \
 [122.Best Time to Buy and Sell Stock II](../leetcode-java/DynamicProgram/leetcode-122) \
 [124.Binary Tree Maximum Path Sum](../leetcode-java/Tree/leetcode-124) \
