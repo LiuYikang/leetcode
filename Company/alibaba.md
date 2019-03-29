@@ -51,8 +51,8 @@
 [110.Balanced Binary Tree](../leetcode-java/) \
 [111.Minimum Depth of Binary Tree](../leetcode-java/) \
 [114.Flatten Binary Tree to Linked List](../leetcode-java/) \
-[121.Best Time to Buy and Sell Stock](../leetcode-java/) \
-[122.Best Time to Buy and Sell Stock II](../leetcode-java/) \
+[121.Best Time to Buy and Sell Stock](../leetcode-java/DynamicProgram/leetcode-121) \
+[122.Best Time to Buy and Sell Stock II](../leetcode-java/DynamicProgram/leetcode-122) \
 [124.Binary Tree Maximum Path Sum](../leetcode-java/Tree/leetcode-124) \
 [133.Clone Graph](../leetcode-java/Graph/leetcode-133) \
 [136.Single Number](../leetcode-java/BitManipulation/leetcode-136) \
