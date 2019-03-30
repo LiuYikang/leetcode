@@ -46,10 +46,10 @@
 [81.Search in Rotated Sorted Array II](../leetcode-java/) \
 [83.Remove Duplicates from Sorted List](../leetcode-java/) \
 [95.Unique Binary Search Trees II](../leetcode-java/) \
-[103.Binary Tree Zigzag Level Order Traversal](../leetcode-java/) \
-[104.Maximum Depth of Binary Tree](../leetcode-java/) \
-[110.Balanced Binary Tree](../leetcode-java/) \
-[111.Minimum Depth of Binary Tree](../leetcode-java/) \
+[103.Binary Tree Zigzag Level Order Traversal](../leetcode-java/Tree/leetcode-103) \
+[104.Maximum Depth of Binary Tree](../leetcode-java/Tree/leetcode-104) \
+[110.Balanced Binary Tree](../leetcode-java/Tree/leetcode-110) \
+[111.Minimum Depth of Binary Tree](../leetcode-java/Tree/leetcode-111) \
 [114.Flatten Binary Tree to Linked List](../leetcode-java/Tree/leetcode-114) \
 [121.Best Time to Buy and Sell Stock](../leetcode-java/DynamicProgram/leetcode-121) \
 [122.Best Time to Buy and Sell Stock II](../leetcode-java/DynamicProgram/leetcode-122) \
