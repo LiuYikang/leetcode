@@ -45,7 +45,7 @@
 [79.Word Search](../leetcode-java/) \
 [81.Search in Rotated Sorted Array II](../leetcode-java/) \
 [83.Remove Duplicates from Sorted List](../leetcode-java/) \
-[95.Unique Binary Search Trees II](../leetcode-java/) \
+[95.Unique Binary Search Trees II](../leetcode-java/Tree/Leetcode-95) \
 [103.Binary Tree Zigzag Level Order Traversal](../leetcode-java/Tree/leetcode-103) \
 [104.Maximum Depth of Binary Tree](../leetcode-java/Tree/leetcode-104) \
 [110.Balanced Binary Tree](../leetcode-java/Tree/leetcode-110) \
