@@ -43,7 +43,7 @@
 [75.Sort Colors](../leetcode-java/) \
 [78.Subsets](../leetcode-java/) \
 [79.Word Search](../leetcode-java/BackTracking/leetcode-79) \
-[81.Search in Rotated Sorted Array II](../leetcode-java/) \
+[81.Search in Rotated Sorted Array II](../leetcode-java/BinarySearch/leetcode-81) \
 [83.Remove Duplicates from Sorted List](../leetcode-java/LinkedList/leetcode-83) \
 [95.Unique Binary Search Trees II](../leetcode-java/Tree/Leetcode-95) \
 [103.Binary Tree Zigzag Level Order Traversal](../leetcode-java/Tree/leetcode-103) \
