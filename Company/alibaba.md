@@ -25,7 +25,7 @@
 [26.Remove Duplicates from Sorted Array](../leetcode-java/) \
 [28.Implement strStr()](../leetcode-java/) \
 [32.Longest Valid Parentheses](../leetcode-java/) \
-[33.Search in Rotated Sorted Array](../leetcode-java/) \
+[33.Search in Rotated Sorted Array](../leetcode-java/BinarySearch/leetcode-33) \
 [41.First Missing Positive](../leetcode-java/) \
 [42.Trapping Rain Water](../leetcode-java/) \
 [44.Wildcard Matching](../leetcode-java/) \
@@ -42,9 +42,9 @@
 [72.Edit Distance](../leetcode-java/) \
 [75.Sort Colors](../leetcode-java/) \
 [78.Subsets](../leetcode-java/) \
-[79.Word Search](../leetcode-java/) \
+[79.Word Search](../leetcode-java/BackTracking/leetcode-79) \
 [81.Search in Rotated Sorted Array II](../leetcode-java/) \
-[83.Remove Duplicates from Sorted List](../leetcode-java/) \
+[83.Remove Duplicates from Sorted List](../leetcode-java/LinkedList/leetcode-83) \
 [95.Unique Binary Search Trees II](../leetcode-java/Tree/Leetcode-95) \
 [103.Binary Tree Zigzag Level Order Traversal](../leetcode-java/Tree/leetcode-103) \
 [104.Maximum Depth of Binary Tree](../leetcode-java/Tree/leetcode-104) \
