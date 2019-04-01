@@ -40,8 +40,8 @@
 [69.Sqrt(x)](../leetcode-java/) \
 [70.Climbing Stairs](../leetcode-java/) \
 [72.Edit Distance](../leetcode-java/) \
-[75.Sort Colors](../leetcode-java/) \
-[78.Subsets](../leetcode-java/) \
+[75.Sort Colors](../leetcode-java/Arrays/leetcode-75) \
+[78.Subsets](../leetcode-java/BackTracking/leetcode-78) \
 [79.Word Search](../leetcode-java/BackTracking/leetcode-79) \
 [81.Search in Rotated Sorted Array II](../leetcode-java/BinarySearch/leetcode-81) \
 [83.Remove Duplicates from Sorted List](../leetcode-java/LinkedList/leetcode-83) \
