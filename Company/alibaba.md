@@ -37,9 +37,9 @@
 [62.Unique Paths](../leetcode-java/) \
 [64.Minimum Path Sum](../leetcode-java/) \
 [67.Add Binary](../leetcode-java/) \
-[69.Sqrt(x)](../leetcode-java/) \
-[70.Climbing Stairs](../leetcode-java/) \
-[72.Edit Distance](../leetcode-java/) \
+[69.Sqrt(x)](../leetcode-java/BinarySearch/leetcode-69) \
+[70.Climbing Stairs](../leetcode-java/DynamicProgram/leetcode-70) \
+[72.Edit Distance](../leetcode-java/DynamicProgram/leetcode-72) \
 [75.Sort Colors](../leetcode-java/Arrays/leetcode-75) \
 [78.Subsets](../leetcode-java/BackTracking/leetcode-78) \
 [79.Word Search](../leetcode-java/BackTracking/leetcode-79) \
