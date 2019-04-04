@@ -36,7 +36,7 @@
 [58.Length of Last Word](../leetcode-java/) \
 [62.Unique Paths](../leetcode-java/) \
 [64.Minimum Path Sum](../leetcode-java/) \
-[67.Add Binary](../leetcode-java/) \
+[67.Add Binary](../leetcode-java/String/leetcode-67) \
 [69.Sqrt(x)](../leetcode-java/BinarySearch/leetcode-69) \
 [70.Climbing Stairs](../leetcode-java/DynamicProgram/leetcode-70) \
 [72.Edit Distance](../leetcode-java/DynamicProgram/leetcode-72) \
