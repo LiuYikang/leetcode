@@ -31,11 +31,11 @@
 [44.Wildcard Matching](../leetcode-java/) \
 [46.Permutations](../leetcode-java/) \
 [49.Group Anagrams](../leetcode-java/) \
-[50.Pow(x, n)](../leetcode-java/) \
-[53.Maximum Subarray](../leetcode-java/) \
-[58.Length of Last Word](../leetcode-java/) \
-[62.Unique Paths](../leetcode-java/) \
-[64.Minimum Path Sum](../leetcode-java/) \
+[50.Pow(x, n)](../leetcode-java/BinarySearch/leetcode-50) \
+[53.Maximum Subarray](../leetcode-java/DynamicProgram/leetcode-53) \
+[58.Length of Last Word](../leetcode-java/String/leetcode-58) \
+[62.Unique Paths](../leetcode-java/DynamicProgram/leetcode-62) \
+[64.Minimum Path Sum](../leetcode-java/DynamicProgram/leetcode-64) \
 [67.Add Binary](../leetcode-java/String/leetcode-67) \
 [69.Sqrt(x)](../leetcode-java/BinarySearch/leetcode-69) \
 [70.Climbing Stairs](../leetcode-java/DynamicProgram/leetcode-70) \
