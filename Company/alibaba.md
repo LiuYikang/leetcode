@@ -29,8 +29,8 @@
 [41.First Missing Positive](../leetcode-java/) \
 [42.Trapping Rain Water](../leetcode-java/) \
 [44.Wildcard Matching](../leetcode-java/) \
-[46.Permutations](../leetcode-java/) \
-[49.Group Anagrams](../leetcode-java/) \
+[46.Permutations](../leetcode-java/Arrays/leetcode-46) \
+[49.Group Anagrams](../leetcode-java/HashTable/leetcode-49) \
 [50.Pow(x, n)](../leetcode-java/BinarySearch/leetcode-50) \
 [53.Maximum Subarray](../leetcode-java/DynamicProgram/leetcode-53) \
 [58.Length of Last Word](../leetcode-java/String/leetcode-58) \
