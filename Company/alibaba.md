@@ -26,9 +26,9 @@
 [28.Implement strStr()](../leetcode-java/) \
 [32.Longest Valid Parentheses](../leetcode-java/) \
 [33.Search in Rotated Sorted Array](../leetcode-java/BinarySearch/leetcode-33) \
-[41.First Missing Positive](../leetcode-java/) \
-[42.Trapping Rain Water](../leetcode-java/) \
-[44.Wildcard Matching](../leetcode-java/) \
+[41.First Missing Positive](../leetcode-java/Arrays/leetcode-41) \
+[42.Trapping Rain Water](../leetcode-java/Arrays/leetcode-42) \
+[44.Wildcard Matching](../leetcode-java/DynamicProgram/leetcode-44) \
 [46.Permutations](../leetcode-java/Arrays/leetcode-46) \
 [49.Group Anagrams](../leetcode-java/HashTable/leetcode-49) \
 [50.Pow(x, n)](../leetcode-java/BinarySearch/leetcode-50) \
