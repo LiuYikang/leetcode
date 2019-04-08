@@ -21,10 +21,10 @@
 [20.Valid Parentheses](../leetcode-java/) \
 [21.Merge Two Sorted Lists](../leetcode-java/) \
 [22.Generate Parentheses](../leetcode-java/) \
-[23.Merge k Sorted Lists](../leetcode-java/) \
-[26.Remove Duplicates from Sorted Array](../leetcode-java/) \
-[28.Implement strStr()](../leetcode-java/) \
-[32.Longest Valid Parentheses](../leetcode-java/) \
+[23.Merge k Sorted Lists](../leetcode-java/LinkedList/leetcode-23) \
+[26.Remove Duplicates from Sorted Array](../leetcode-java/Arrays/leetcode-26) \
+[28.Implement strStr()](../leetcode-java/String/leetcode-28) \
+[32.Longest Valid Parentheses](../leetcode-java/Stack/leetcode-32) \
 [33.Search in Rotated Sorted Array](../leetcode-java/BinarySearch/leetcode-33) \
 [41.First Missing Positive](../leetcode-java/Arrays/leetcode-41) \
 [42.Trapping Rain Water](../leetcode-java/Arrays/leetcode-42) \
