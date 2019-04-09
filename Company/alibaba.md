@@ -17,10 +17,10 @@
 [16.3Sum Closest](../leetcode-java/) \
 [17.Letter Combinations of a Phone Number](../leetcode-java/) \
 [18.4Sum](../leetcode-java/) \
-[19.Remove Nth Node From End of List](../leetcode-java/) \
-[20.Valid Parentheses](../leetcode-java/) \
-[21.Merge Two Sorted Lists](../leetcode-java/) \
-[22.Generate Parentheses](../leetcode-java/) \
+[19.Remove Nth Node From End of List](../leetcode-java/LinkedList/leetcode-19) \
+[20.Valid Parentheses](../leetcode-java/Stack/leetcode-20) \
+[21.Merge Two Sorted Lists](../leetcode-java/LinkedList/leetcode-21) \
+[22.Generate Parentheses](../leetcode-java/BackTracking/leetcode-22) \
 [23.Merge k Sorted Lists](../leetcode-java/LinkedList/leetcode-23) \
 [26.Remove Duplicates from Sorted Array](../leetcode-java/Arrays/leetcode-26) \
 [28.Implement strStr()](../leetcode-java/String/leetcode-28) \
