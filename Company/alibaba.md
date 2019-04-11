@@ -1,5 +1,5 @@
 # Alibaba leetcode problem
-[1.Two Sum](../leetcode-java/HashTable/leetcode-001) \
+[1.Two Sum](../leetcode-java/Arrays/leetcode-0001) \
 [2.Add Two Numbers](../leetcode-java/) \
 [3.Longest Substring Without Repeating Characters](../leetcode-java/) \
 [4.Median of Two Sorted Arrays](../leetcode-java/) \
@@ -13,10 +13,10 @@
 [12.Integer to Roman](../leetcode-java/) \
 [13.Roman to Integer](../leetcode-java/) \
 [14.Longest Common Prefix](../leetcode-java/) \
-[15.3Sum](../leetcode-java/) \
-[16.3Sum Closest](../leetcode-java/) \
+[15.3Sum](../leetcode-java/Arrays/leetcode-0015) \
+[16.3Sum Closest](../leetcode-java/Arrays/leetcode-0016) \
 [17.Letter Combinations of a Phone Number](../leetcode-java/) \
-[18.4Sum](../leetcode-java/) \
+[18.4Sum](../leetcode-java/Arrays/leetcode-0018) \
 [19.Remove Nth Node From End of List](../leetcode-java/LinkedList/leetcode-19) \
 [20.Valid Parentheses](../leetcode-java/Stack/leetcode-20) \
 [21.Merge Two Sorted Lists](../leetcode-java/LinkedList/leetcode-21) \

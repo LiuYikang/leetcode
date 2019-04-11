@@ -1,4 +1,4 @@
-package hashtable
+package arrays
 
 func twoSum(nums []int, target int) []int {
 	res := []int{}
