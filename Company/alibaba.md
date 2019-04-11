@@ -1,5 +1,5 @@
 # Alibaba leetcode problem
-[1.Two Sum](../leetcode-java/) \
+[1.Two Sum](../leetcode-java/HashTable/leetcode-001) \
 [2.Add Two Numbers](../leetcode-java/) \
 [3.Longest Substring Without Repeating Characters](../leetcode-java/) \
 [4.Median of Two Sorted Arrays](../leetcode-java/) \
