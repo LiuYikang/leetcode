@@ -10,12 +10,12 @@
 [9.Palindrome Number](../leetcode-java/) \
 [10.Regular Expression Matching](../leetcode-java/) \
 [11.Container With Most Water](../leetcode-java/) \
-[12.Integer to Roman](../leetcode-java/) \
-[13.Roman to Integer](../leetcode-java/) \
-[14.Longest Common Prefix](../leetcode-java/) \
+[12.Integer to Roman](../leetcode-java/String/leetcode-0012) \
+[13.Roman to Integer](../leetcode-java/String/leetcode-0013) \
+[14.Longest Common Prefix](../leetcode-java/String/leetcode-0014) \
 [15.3Sum](../leetcode-java/Arrays/leetcode-0015) \
 [16.3Sum Closest](../leetcode-java/Arrays/leetcode-0016) \
-[17.Letter Combinations of a Phone Number](../leetcode-java/) \
+[17.Letter Combinations of a Phone Number](../leetcode-java/BackTracking/leetcode-0017) \
 [18.4Sum](../leetcode-java/Arrays/leetcode-0018) \
 [19.Remove Nth Node From End of List](../leetcode-java/LinkedList/leetcode-19) \
 [20.Valid Parentheses](../leetcode-java/Stack/leetcode-20) \
