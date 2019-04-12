@@ -1,7 +1,7 @@
 package math
 
 func isPalindrome(x int) bool {
-	if x < 0 || x%10 == 0 {
+	if x < 0 {
 		return false
 	}
 	p := 0
