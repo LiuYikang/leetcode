@@ -5,7 +5,7 @@
 [4.Median of Two Sorted Arrays](../leetcode-java/) \
 [5.Longest Palindromic Substring](../leetcode-java/) \
 [6.ZigZag Conversion](../leetcode-java/) \
-[7.Reverse Integer](../leetcode-java/) \
+[7.Reverse Integer](../leetcode-java/Math/leetcode-0007) \
 [8.String to Integer (atoi)](../leetcode-java/) \
 [9.Palindrome Number](../leetcode-java/Math/leetcode-0009) \
 [10.Regular Expression Matching](../leetcode-java/) \
