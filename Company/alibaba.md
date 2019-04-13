@@ -4,11 +4,11 @@
 [3.Longest Substring Without Repeating Characters](../leetcode-java/) \
 [4.Median of Two Sorted Arrays](../leetcode-java/) \
 [5.Longest Palindromic Substring](../leetcode-java/) \
-[6.ZigZag Conversion](../leetcode-java/) \
+[6.ZigZag Conversion](../leetcode-java/String/leetcode-0006) \
 [7.Reverse Integer](../leetcode-java/Math/leetcode-0007) \
-[8.String to Integer (atoi)](../leetcode-java/) \
+[8.String to Integer (atoi)](../leetcode-java/String/leetcode-0008) \
 [9.Palindrome Number](../leetcode-java/Math/leetcode-0009) \
-[10.Regular Expression Matching](../leetcode-java/) \
+[10.Regular Expression Matching](../leetcode-java/DynamicProgram/leetcode-0010) \
 [11.Container With Most Water](../leetcode-java/Arrays/leetcode-0011) \
 [12.Integer to Roman](../leetcode-java/String/leetcode-0012) \
 [13.Roman to Integer](../leetcode-java/String/leetcode-0013) \
