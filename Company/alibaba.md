@@ -1,7 +1,7 @@
 # Alibaba leetcode problem
 [1.Two Sum](../leetcode-java/Arrays/leetcode-0001) \
-[2.Add Two Numbers](../leetcode-java/) \
-[3.Longest Substring Without Repeating Characters](../leetcode-java/) \
+[2.Add Two Numbers](../leetcode-java/LinkedList/leetcode-0002) \
+[3.Longest Substring Without Repeating Characters](../leetcode-java/String/leetcode-0003) \
 [4.Median of Two Sorted Arrays](../leetcode-java/) \
 [5.Longest Palindromic Substring](../leetcode-java/) \
 [6.ZigZag Conversion](../leetcode-java/String/leetcode-0006) \
