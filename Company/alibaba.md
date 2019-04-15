@@ -75,7 +75,7 @@
 [198.House Robber](../leetcode-java/DynamicProgram/leetcode-198) \
 [200.Number of Islands](../leetcode-java/DFS/leetcode-200) \
 [202.Happy Number](../leetcode-java/HashMap/leetcode-202) \
-[214.Shortest Palindrome](../leetcode-java/) \
+[214.Shortest Palindrome](../leetcode-java/leetcode-214) \
 [215.Kth Largest Element in an Array](../leetcode-java/Arrays/leetcode-215) \
 [224.Basic Calculator](../leetcode-java/Stack/leetcode-224) \
 [229.Majority Element II](../leetcode/Arrays/leetcode-229) \

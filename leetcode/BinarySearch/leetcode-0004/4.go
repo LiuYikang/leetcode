@@ -33,7 +33,6 @@ func getKth(nums1, nums2 []int, start1, start2, k int) float64 {
 
 	if mid1 < mid2 {
 		return getKth(nums1, nums2, start1+k/2, start2, k-k/2)
-	} else {
-		return getKth(nums1, nums2, start1, start2+k/2, k-k/2)
 	}
+	return getKth(nums1, nums2, start1, start2+k/2, k-k/2)
 }
