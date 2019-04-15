@@ -2,8 +2,8 @@
 [1.Two Sum](../leetcode-java/Arrays/leetcode-0001) \
 [2.Add Two Numbers](../leetcode-java/LinkedList/leetcode-0002) \
 [3.Longest Substring Without Repeating Characters](../leetcode-java/String/leetcode-0003) \
-[4.Median of Two Sorted Arrays](../leetcode-java/) \
-[5.Longest Palindromic Substring](../leetcode-java/) \
+[4.Median of Two Sorted Arrays](../leetcode-java/BinarySearch/leetcode-0004) \
+[5.Longest Palindromic Substring](../leetcode-java/String/leetcode-0005) \
 [6.ZigZag Conversion](../leetcode-java/String/leetcode-0006) \
 [7.Reverse Integer](../leetcode-java/Math/leetcode-0007) \
 [8.String to Integer (atoi)](../leetcode-java/String/leetcode-0008) \
