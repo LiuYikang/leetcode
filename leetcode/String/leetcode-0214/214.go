@@ -12,7 +12,7 @@ func shortestPalindrome(s string) string {
 			j = next[j-1]
 		}
 		if t[i] == t[j] {
-			j += 1
+			j++
 		}
 		next[i] = j
 	}
