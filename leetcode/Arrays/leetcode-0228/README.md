@@ -15,3 +15,4 @@ Explanation: 2,3,4 form a continuous range; 8,9 form a continuous range.
 ```
 
 #### solution
+实现题
